@@ -12,7 +12,12 @@ https://www.i.u-tokyo.ac.jp/edu/course/cs/references.shtml
 The following sites are related to course content.
 
 ## Mathmatics:
-Yoshio Okamoto's website: [here](http://dopal.cs.uec.ac.jp/okamotoy/lect/)
-- Really good content for math and CS.
+- Yoshio Okamoto's website: [here](http://dopal.cs.uec.ac.jp/okamotoy/lect/)
+Really good content for math and CS.
 
-#
+## Economics:
+
+### Micro:
+- http://yushika.web.fc2.com/keizai/monndai.html
+
+
