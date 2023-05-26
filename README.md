@@ -11,7 +11,7 @@ https://www.i.u-tokyo.ac.jp/edu/course/cs/references.shtml
 # Course Contents:
 The following sites are related to course content.
 
-## Mathmatics / CS:
+## Mathematics / CS:
 - Yoshio Okamoto's website: [here](http://dopal.cs.uec.ac.jp/okamotoy/lect/)
 Really good content for math and CS.
 - Mitsu Okada's Website: [here](https://abelard.flet.keio.ac.jp/person/mitsu/pdf/)
