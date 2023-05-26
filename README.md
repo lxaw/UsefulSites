@@ -22,7 +22,7 @@ Really good content for math and CS.
 - http://yushika.web.fc2.com/keizai/monndai.html
 
 ## Learning / Behaviour:
-随伴性についえ：https://yasabito.com/1676
-オペラント条件付け・古典的条件付け：https://psycho-psycho.com/operant-conditioning/
+- 随伴性についえ：https://yasabito.com/1676
+- オペラント条件付け・古典的条件付け：https://psycho-psycho.com/operant-conditioning/
 
 
