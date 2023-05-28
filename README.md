@@ -17,6 +17,9 @@ Really good content for math and CS.
 - Mitsu Okada's Website: [here](https://abelard.flet.keio.ac.jp/person/mitsu/pdf/)
 - Kashima Hisashi's website: [here](https://hkashima.github.io/education.html)
 - Takeo Igarashi's website: [here](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/)
+- 椛島 健太's 数値解析 notes: [here](https://numanalnote.musicscience37.com/numerical-analysis-note.pdf)
+- 成蹊大学　離散数学：[here](https://www.ci.seikei.ac.jp/yamamoto/lecture/dm/text.pdf)
+- 五十嵐 淳's Computation and logic: [here](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/cal/)
 
 ## Economics:
 
