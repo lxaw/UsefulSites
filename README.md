@@ -1,6 +1,6 @@
 # UsefulSites
 Just a bunch of websites.
-ほとんどは日本語で書かれてものです。ご了承ください。
+ほとんどは日本語で書かれていたものになります。ご了承ください。
 
 # List of books:
 The following sites have a repository of book names.
