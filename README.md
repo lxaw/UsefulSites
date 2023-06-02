@@ -20,6 +20,7 @@ Really good content for math and CS.
 - 椛島 健太's 数値解析 notes: [here](https://numanalnote.musicscience37.com/numerical-analysis-note.pdf)
 - 成蹊大学　離散数学：[here](https://www.ci.seikei.ac.jp/yamamoto/lecture/dm/text.pdf)
 - 五十嵐 淳's Computation and logic: [here](https://www.fos.kuis.kyoto-u.ac.jp/~igarashi/class/cal/)
+- Yagami360's notes: [here](https://github.com/Yagami360/My_NoteBook)
 
 ## Economics:
 
